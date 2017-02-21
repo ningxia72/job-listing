@@ -56,6 +56,7 @@ end
       @job.hide!
       redirect_to :back
     end
+
   private
 
   def job_params
